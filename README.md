@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkaldeep
 - 👀 I’m interested in Python,CN,postgreSQL,Cybersecurity,os
-- 🌱 I’m currently learning java,
+- 🌱 I’m currently learning java,DBMS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LINKEDIN(https://www.linkedin.com/in/utkal-deep-jena-0868ba249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: ...
